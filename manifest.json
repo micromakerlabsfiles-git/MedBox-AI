@@ -1,0 +1,25 @@
+{
+  "name": "MedBox AI — First Aid Inventory & Barcode Tracking",
+  "short_name": "MedBox AI",
+  "description": "Smart First Aid Box Tracking, QR/Barcode Scanner, AI Expiry & Doctor Alerts",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#e11d48",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' width='192' height='192'%3E%3Crect width='192' height='192' rx='40' fill='%23e11d48'/%3E%3Cpath fill='%23ffffff' d='M84 48h24v36h36v24h-36v36H84v-36H48V84h36V48z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' width='512' height='512'%3E%3Crect width='512' height='512' rx='100' fill='%23e11d48'/%3E%3Cpath fill='%23ffffff' d='M224 128h64v96h96v64h-96v96h-64v-96h-96v-64h96v-96z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
